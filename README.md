@@ -1,4 +1,4 @@
-![logo](https://github.com/91aashutosh/91aashutosh/banner.png)
+<img align="center" alt="coding" height="300" width="1000" src="https://media3.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif">
 
 ### <div align="center">I'm Aashutosh, a computer science and engineering student👨‍💻 keen interest in Web Development.</div>  
   
@@ -16,7 +16,6 @@
   
 
 <br/>  
-
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
