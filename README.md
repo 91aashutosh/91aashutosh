@@ -3,10 +3,10 @@
 ### <div align="center">I'm Aashutosh, a computer science and engineering student👨‍💻 keen interest in Web Development.</div>  
   
 
-- 🔭 I’m currently pursuing CSE from JIIT, NOIDA.  
+- 🔭 I’m currently pursuing B.Tech. in CSE from JIIT, NOIDA.  
   
 
-- 🌱 I’m currently learning React.JS  
+- 🌱 I’m currently learning React.JS.
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
