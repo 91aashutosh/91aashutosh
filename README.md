@@ -1,3 +1,4 @@
+![logo](https://github.com/91aashutosh/91aashutosh/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Aasshutosh Pradhan</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/cd/59/d6/cd59d626dc86397fe45080e6e9c7027d.gif">
