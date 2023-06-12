@@ -68,19 +68,14 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=91aashutosh&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<!-- <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=91aashutosh&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  -->
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=91aashutosh&hide_border=true&layout=compact" align="center" /></div>  
-
-<br/>  
-
-
-## Recent Blog Posts  
   
 
 <br/>  
 
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
+<div align="center"><img height="100" width="100" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbAOB8h0Lbxf_RnAxfpMYGmb5pAXeoTWH_jA8GB9WvpA&usqp=CAU&ec=48665701" /></div>  
 
 <br/>  
 
