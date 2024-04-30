@@ -6,7 +6,7 @@
 - 🔭 I’m currently pursuing B.Tech. in CSE from JIIT, NOIDA.  
   
 
-- 🌱 I’m currently learning React.JS.
+- 🌱 Backend Developer at APNA KONNECT.
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
